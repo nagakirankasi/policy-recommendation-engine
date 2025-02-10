@@ -4,19 +4,19 @@ nagakirankasi.github.io/policy-recommendation-engine
 A serverless health insurance policy recommendation engine that suggests policies based on user inputs like age, medical history, and family coverage needs. 
 This project will help you get hands-on experience with AWS Lambda, API Gateway, DynamoDB, Step Functions, and SageMaker.
 
-#Key Technologies used
+# Key Technologies used
 AWS Lambda: Understand function triggers, execution, and IAM roles.
 Amazon DynamoDB: Learn about NoSQL databases, tables, and querying.
 AWS API Gateway: Explore RESTful API creation and integrations with Lambda.
 AWS SageMaker: Introduction to ML model training and deployment.
 AWS Step Functions: Learn how to orchestrate workflows using Step Functions.
 
-#Project Plan
+# Project Plan
 1. Define the policy recommendation criteria (e.g., age, health conditions, budget).
 2. Design the data schema for DynamoDB (e.g., policy_id, policy_name, age_range, premium, coverage, conditions).
 3. Choose an ML model for recommendations (basic rule-based logic or a lightweight ML model using SageMaker).
 
-#Setting up the Backend
+# Setting up the Backend
 4. Create the Insurance Policies Database
    Set up a DynamoDB table with attributes:
    policy_id (Primary Key)
