@@ -5,11 +5,11 @@ A serverless health insurance policy recommendation engine that suggests policie
 This project will help you get hands-on experience with AWS Lambda, API Gateway, DynamoDB, Step Functions, and SageMaker.
 
 # Key Technologies used
-AWS Lambda: Understand function triggers, execution, and IAM roles.
-Amazon DynamoDB: Learn about NoSQL databases, tables, and querying.
-AWS API Gateway: Explore RESTful API creation and integrations with Lambda.
-AWS SageMaker: Introduction to ML model training and deployment.
-AWS Step Functions: Learn how to orchestrate workflows using Step Functions.
+- AWS Lambda: Understand function triggers, execution, and IAM roles.
+- Amazon DynamoDB: Learn about NoSQL databases, tables, and querying.
+- AWS API Gateway: Explore RESTful API creation and integrations with Lambda.
+- AWS SageMaker: Introduction to ML model training and deployment.
+- AWS Step Functions: Learn how to orchestrate workflows using Step Functions.
 
 # Project Plan
 1. Define the policy recommendation criteria (e.g., age, health conditions, budget).
